@@ -1,0 +1,21 @@
+{
+  "name": "old-license",
+  "version": "0.0.3",
+  "description": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+
+  "engines": {
+    "node": "6.14.1"
+  },
+  "dependencies": {
+    "ejs": "2.0.2"
+  },
+  "devDependencies": {
+    "browserify": "^13.1.1"
+  },
+  "snyk": true
+}
